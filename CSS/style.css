@@ -1,0 +1,43 @@
+
+
+body{
+
+  position: absolute;
+  background-color: #c3aed6;
+  width: 30%;
+  float: right;
+  z-index: 1;
+  left: 37%;
+  overflow: auto;
+
+}
+
+img{
+  position: absolute;
+  width:100%;
+  z-index: 2;
+  right:auto ;
+  float: left;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+.submit-button {
+  display: block;
+  width: 100%;
+  padding: 0.75rem;
+  background:green;
+  color: inherit;
+  border-radius: 2px;
+  cursor: pointer;
+}
